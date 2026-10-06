@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Shalu yadav",
+      "course": "B.Tech"
+    },
+    {
+      "name": "Yash Trivedi",
+      "email": "yash.codingclave@gmail.com",
+      "password": "12345678",
+      "id": "J3yqZUnkM5Y"
+    },
+    {
+      "name": "Shalu Yadav",
+      "email": "saluyadav102@gmail.com",
+      "password": "Shalu@2004",
+      "id": "A8I5mHVTaNs"
+    },
+    {
+      "name": "Shalu yadav",
+      "email": "saluyadav12@gmail.com",
+      "password": "12345678",
+      "id": "VkbrXt1-GHk"
+    },
+    {
+      "name": "Shalu yadav",
+      "email": "saluyadav102@gmail.com",
+      "password": "12345678",
+      "id": "a4bjNzVRHBk"
+    },
+    {
+      "name": "Shalu yadav",
+      "email": "saluyadav12@gmail.com",
+      "password": "12345678",
+      "id": "o_QbFlv4tg4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
